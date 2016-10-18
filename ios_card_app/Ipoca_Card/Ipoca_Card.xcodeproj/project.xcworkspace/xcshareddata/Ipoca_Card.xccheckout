@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F62EE0A1-5D8F-4EC4-AC1D-27B4A6C15560</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ipoca_Card</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>55D65B86-DCB5-4DF3-BB16-A94765784C54</key>
+		<string>https://github.com/monstar-lab/ipoca</string>
+		<key>8D198EFD1EA22B7D5622F2C51E234466DA33CF69</key>
+		<string>https://github.com/monstar-lab/ipoca</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios_card_app/Ipoca_Card/Ipoca_Card.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>55D65B86-DCB5-4DF3-BB16-A94765784C54</key>
+		<string>../../../../Ipoca_Card</string>
+		<key>8D198EFD1EA22B7D5622F2C51E234466DA33CF69</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/monstar-lab/ipoca</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D198EFD1EA22B7D5622F2C51E234466DA33CF69</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D198EFD1EA22B7D5622F2C51E234466DA33CF69</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D198EFD1EA22B7D5622F2C51E234466DA33CF69</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ipoca</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>55D65B86-DCB5-4DF3-BB16-A94765784C54</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ipoca_Card</string>
+		</dict>
+	</array>
+</dict>
+</plist>
